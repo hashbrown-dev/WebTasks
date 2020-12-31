@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cffb4a44-8dfc-4878-a269-44f3d9de1a3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WebTasks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lcf3mGs63lud66G7JHNXcEjAd6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="WebTasks" type="Python.FlaskServer">
@@ -60,7 +70,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607901102993</updated>
-      <workItem from="1607901114810" duration="2081000" />
+      <workItem from="1607901114810" duration="2442000" />
+      <workItem from="1607904129651" duration="1942000" />
+      <workItem from="1608256022565" duration="903000" />
+      <workItem from="1608262804745" duration="356000" />
+      <workItem from="1608264647935" duration="367000" />
+      <workItem from="1608266723700" duration="2194000" />
+      <workItem from="1608334589483" duration="2361000" />
     </task>
     <servers />
   </component>
@@ -72,36 +88,40 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="320" y="94" key="#Inspections/0.23.1440.811@0.23.1440.811" timestamp="1607901900242" />
+    <state x="184" y="90" width="1071" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609371935436">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="184" y="90" width="1071" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1609371935436" />
     <state x="397" y="110" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1607901811480">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="397" y="110" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.811@0.23.1440.811" timestamp="1607901811480" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1607902175407">
+    <state width="1396" height="189" key="GridCell.Tab.0.bottom" timestamp="1608265072056">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1607902175407" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1607902175407">
+    <state width="1396" height="189" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1608265072056" />
+    <state width="1396" height="189" key="GridCell.Tab.0.center" timestamp="1608265072055">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1607902175407" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1607902175406">
+    <state width="1396" height="189" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1608265072055" />
+    <state width="1396" height="189" key="GridCell.Tab.0.left" timestamp="1608265072055">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1607902175406" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1607902175407">
+    <state width="1396" height="189" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1608265072055" />
+    <state width="1396" height="189" key="GridCell.Tab.0.right" timestamp="1608265072056">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1607902175407" />
-    <state x="221" y="67" key="SettingsEditor" timestamp="1607901789986">
+    <state width="1396" height="189" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1608265072056" />
+    <state x="221" y="67" key="SettingsEditor" timestamp="1609373566283">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="221" y="67" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1607901789986" />
+    <state x="221" y="67" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1609373566283" />
     <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1607901688988">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1607901688988" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/WebTasks$WebTasks.coverage" NAME="WebTasks Coverage Results" MODIFIED="1607902175393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/WebTasks$WebTasks.coverage" NAME="WebTasks Coverage Results" MODIFIED="1608265052105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
