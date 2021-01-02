@@ -1,0 +1,1 @@
+database = 'postgres://khzvpmtkdffnup:56d605f53b517d12446d92cf5a4b8df82ac0bd3b6d73476e58b49a2e73fd3442@ec2-54-197-34-207.compute-1.amazonaws.com:5432/d91kf548ftrtdj'
