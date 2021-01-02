@@ -128,3 +128,4 @@ dmypy.json
 
 # dictionaries
 .idea/
+.idea/*
