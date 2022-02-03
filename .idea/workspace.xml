@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cffb4a44-8dfc-4878-a269-44f3d9de1a3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -73,7 +75,10 @@
       <workItem from="1608264647935" duration="367000" />
       <workItem from="1608266723700" duration="2194000" />
       <workItem from="1608334589483" duration="20156000" />
-      <workItem from="1609630073376" duration="2095000" />
+      <workItem from="1609630073376" duration="3860000" />
+      <workItem from="1609647458880" duration="2062000" />
+      <workItem from="1609877316198" duration="3117000" />
+      <workItem from="1609886431786" duration="403000" />
     </task>
     <servers />
   </component>
@@ -85,10 +90,10 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="320" y="94" key="#Inspections/0.23.1440.811@0.23.1440.811" timestamp="1607901900242" />
-    <state x="184" y="90" width="1071" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609627226817">
+    <state x="184" y="90" width="1071" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609873094158">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="184" y="90" width="1071" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1609627226817" />
+    <state x="184" y="90" width="1071" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1609873094158" />
     <state x="443" y="228" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609626708649">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
